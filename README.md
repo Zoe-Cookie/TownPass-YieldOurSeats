@@ -1,9 +1,13 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # TownPass-YieldOurSeats
 =======
 # citypass-microservices
+=======
+# TownPass-Services
+>>>>>>> c94524b (update)
 
-citypass-microservices project made with Vue3 in Vite.
+TownPass-Services project made with Vue3 in Vite.
 
 ## Recommended IDE Setup
 
