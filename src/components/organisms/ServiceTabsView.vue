@@ -6,11 +6,11 @@ const props = withDefaults(defineProps<TabsProps>(), {
   tabList: () => [
     {
       id: 1,
-      title: '申辦'
+      title: '讓座服務'
     },
     {
       id: 2,
-      title: '查詢'
+      title: '孕婦資料登錄'
     }
   ],
   contentType: false
