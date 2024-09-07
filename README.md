@@ -1,11 +1,4 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 # TownPass-YieldOurSeats
-=======
-# citypass-microservices
-=======
-# TownPass-Services
->>>>>>> c94524b (update)
 
 TownPass-Services project made with Vue3 in Vite.
 
@@ -36,4 +29,3 @@ pnpm build
 ```sh
 pnpm lint
 ```
->>>>>>> 2ebf7b5 (upload current townpass-services project)
