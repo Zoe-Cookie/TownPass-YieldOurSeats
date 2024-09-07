@@ -48,8 +48,7 @@ const playSound = () => {
   notify.value = !notify.value;
   if (notify.value && audio.value) {
     audio.value.play();
-  }
-  else if(audio.value){
+  } else if (audio.value) {
     audio.value.pause();
   }
 };
@@ -62,8 +61,9 @@ const playSound = () => {
         <div class="p-4 flex items-center">
           <img src="/images/pregnancy.png" alt="pregnancy" class="h-24" />
           <div>
-            <h1 class="text-xl font-bold">傳遞馨聲 - 讓座鈴微服務</h1>
-            <h1 class="text-lg">有座位需求勇敢說，讓座愛心不分你我</h1>
+            <h1 class="text-xl font-bold">傳遞馨聲 - 讓座鈴服務</h1>
+            <h1 class="text-lg">有座位需求勇敢說，<br>
+            讓座愛心不分你我</h1>
           </div>
           <img src="/images/old-man.png" alt="old-man" class="h-20" />
         </div>

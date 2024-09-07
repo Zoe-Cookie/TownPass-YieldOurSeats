@@ -17,7 +17,7 @@ const { user } = storeToRefs(userStore);
 <template>
   <div class="pb-8">
     <section class="bg-grey-50 px-4 pt-5 pb-4">
-      <p class="font-bold mt-4">Hi {{ user?.username }}，歡迎使用本服務！服務之詳細說明如下：</p>
+      <p class="font-bold mt-4">Hi {{ user?.username }}，歡迎使用本服務！服務詳細說明如下：</p>
     </section>
     <form>
       <div class="p-3">
